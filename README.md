@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vonmak
 - 👀 I’m interested in react/vue js
-- 🌱 I’m currently learning vanilla js
+- skilled in Angular
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
