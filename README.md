@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Vonmak
+Hi there 👋 I'm Victor Ondari
 
 
 # 💻 Tech Stack:
